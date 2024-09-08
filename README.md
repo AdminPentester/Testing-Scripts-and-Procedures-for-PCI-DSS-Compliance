@@ -1,7 +1,7 @@
 # Testing-Scripts-and-Procedures-for-PCI-DSS-Compliance
 Objective: Verify that sensitive cardholder data is encrypted in transit and at rest as per PCI-DSS requirements.
 
-Testing Procedures:
+Testing multiple Procedures:
 
     Verify Encryption Protocols:
         Script:
